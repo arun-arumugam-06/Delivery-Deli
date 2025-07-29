@@ -1,4 +1,4 @@
-# Food Delivery System (MERN Stack)
+# DeliveryDeli - Food Delivery App (MERN Stack)
 
 ## Features
 - User authentication (JWT, roles: customer/admin)
@@ -50,4 +50,4 @@ PORT=5000
 - For demo, you may seed restaurants/foods manually in MongoDB.
 
 ---
-MIT License 
+Made by Arun 
